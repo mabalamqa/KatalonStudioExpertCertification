@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Launch website,Chrome 122.0.6261.112,,,06-03-2025 00:31:54,06-03-2025 00:32:11,17.951s,PASSED
+,,,,,,,
+Test Cases/Open website,Chrome 122.0.6261.112,,,06-03-2025 00:31:54,06-03-2025 00:32:11,17.042s,PASSED
+"openBrowser(""https://www.automationexercise.com"")",Chrome 122.0.6261.112,,,06-03-2025 00:31:55,06-03-2025 00:32:11,16.085s,PASSED

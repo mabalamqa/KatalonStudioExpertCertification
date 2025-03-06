@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home page checks,Chrome 122.0.6261.112,,,06-03-2025 01:07:45,06-03-2025 01:08:34,49.003s,PASSED
+,,,,,,,
+Test Cases/Verify API testing,Chrome 122.0.6261.112,,,06-03-2025 01:07:46,06-03-2025 01:08:07,21.148s,PASSED
+"callTestCase(findTestCase(""Open website""), [:], STOP_ON_FAILURE)",Chrome 122.0.6261.112,,,06-03-2025 01:07:47,06-03-2025 01:08:05,17.287s,PASSED
+"verifyElementVisible(findTestObject(""Page_Automation Exercise/a_API Testing""))",Chrome 122.0.6261.112,,,06-03-2025 01:08:05,06-03-2025 01:08:07,2.783s,PASSED
+,,,,,,,
+Test Cases/Verify Card available,Chrome 122.0.6261.112,,,06-03-2025 01:08:07,06-03-2025 01:08:21,13.356s,PASSED
+"callTestCase(findTestCase(""Open website""), [:], STOP_ON_FAILURE)",Chrome 122.0.6261.112,,,06-03-2025 01:08:08,06-03-2025 01:08:19,11.121s,PASSED
+"verifyElementVisible(findTestObject(""Page_Automation Exercise/a_Cart""))",Chrome 122.0.6261.112,,,06-03-2025 01:08:19,06-03-2025 01:08:21,1.424s,PASSED
+,,,,,,,
+Test Cases/Verify Contact Us,Chrome 122.0.6261.112,,,06-03-2025 01:08:21,06-03-2025 01:08:34,13.599s,PASSED
+"callTestCase(findTestCase(""Open website""), [:], STOP_ON_FAILURE)",Chrome 122.0.6261.112,,,06-03-2025 01:08:21,06-03-2025 01:08:33,11.596s,PASSED
+"verifyElementVisible(findTestObject(""Page_Automation Exercise/a_Contact us""))",Chrome 122.0.6261.112,,,06-03-2025 01:08:33,06-03-2025 01:08:34,1.416s,PASSED

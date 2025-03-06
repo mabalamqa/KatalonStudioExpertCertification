@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Launch website" time="17.951" tests="1" failures="0" errors="0">
+   <testsuite name="Launch website" tests="1" failures="0" errors="0" time="17.951" skipped="0" timestamp="06-03-2025T00:31:54" hostname="asd - Ramachandra" id="Test Suites/Launch website">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\asd\\git\\KatalonStudioExpertCertification\\Reports\\20250306_003137\\Launch website\\20250306_003137"/>
+         <property name="logFiles" value="C:\\Users\\asd\\git\\KatalonStudioExpertCertification\\Reports\\20250306_003137\\Launch website\\20250306_003137\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="asd - Ramachandra"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 122.0.6261.112"/>
+         <property name="hostAddress" value="192.168.0.179"/>
+         <property name="sessionId" value="bbe6b377f03689be52e465d76ed31bf0"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Open website" time="17.042" classname="Test Cases/Open website" status="PASSED">
+         <system-out><![CDATA[06-03-2025T00:31:54 - [TEST_CASE][PASSED] - Test Cases/Open website: Test Cases/Open website
+
+06-03-2025T00:31:55 - [TEST_STEP][PASSED] - openBrowser("https://www.automationexercise.com"): Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T00:31:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-03-2025T00:31:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-03-2025T00:32:11 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.automationexercise.com']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-03-2025T00:31:54 - [TEST_SUITE][PASSED] - Launch website: Test Cases/Open website]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Home page checks" time="49.003" tests="3" failures="0" errors="0">
+   <testsuite name="Home page checks" tests="3" failures="0" errors="0" time="49.003" skipped="0" timestamp="06-03-2025T01:07:45" hostname="asd - Ramachandra" id="Test Suites/Home page checks">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\asd\\git\\KatalonStudioExpertCertification\\Reports\\20250306_010729\\Home page checks\\20250306_010729"/>
+         <property name="logFiles" value="C:\\Users\\asd\\git\\KatalonStudioExpertCertification\\Reports\\20250306_010729\\Home page checks\\20250306_010729\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="asd - Ramachandra"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 122.0.6261.112"/>
+         <property name="hostAddress" value="192.168.0.179"/>
+         <property name="sessionId" value="51a502bba5946e014f58734f74c9dc27"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Verify API testing" time="21.148" classname="Test Cases/Verify API testing" status="PASSED">
+         <system-out><![CDATA[06-03-2025T01:07:46 - [TEST_CASE][PASSED] - Test Cases/Verify API testing: Test Cases/Verify API testing
+
+06-03-2025T01:07:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Open website"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:07:48 - [TEST_CASE][PASSED] - Test Cases/Open website: Test Cases/Open website
+
+06-03-2025T01:07:48 - [TEST_STEP][PASSED] - openBrowser("https://www.automationexercise.com"): Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:07:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-03-2025T01:07:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-03-2025T01:08:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:08:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:08:05 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_Automation Exercise/a_API Testing")): Object 'Object Repository/Page_Automation Exercise/a_API Testing' is visible
+
+06-03-2025T01:08:07 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise/a_API Testing' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Verify Card available" time="13.356" classname="Test Cases/Verify Card available" status="PASSED">
+         <system-out><![CDATA[06-03-2025T01:08:07 - [TEST_CASE][PASSED] - Test Cases/Verify Card available: Test Cases/Verify Card available
+
+06-03-2025T01:08:08 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Open website"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:08:08 - [TEST_CASE][PASSED] - Test Cases/Open website: Test Cases/Open website
+
+06-03-2025T01:08:08 - [TEST_STEP][PASSED] - openBrowser("https://www.automationexercise.com"): Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:08:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+06-03-2025T01:08:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-03-2025T01:08:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-03-2025T01:08:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:08:19 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:08:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_Automation Exercise/a_Cart")): Object 'Object Repository/Page_Automation Exercise/a_Cart' is visible
+
+06-03-2025T01:08:21 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise/a_Cart' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Verify Contact Us" time="13.599" classname="Test Cases/Verify Contact Us" status="PASSED">
+         <system-out><![CDATA[06-03-2025T01:08:21 - [TEST_CASE][PASSED] - Test Cases/Verify Contact Us: Test Cases/Verify Contact Us
+
+06-03-2025T01:08:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Open website"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:08:21 - [TEST_CASE][PASSED] - Test Cases/Open website: Test Cases/Open website
+
+06-03-2025T01:08:21 - [TEST_STEP][PASSED] - openBrowser("https://www.automationexercise.com"): Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:08:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+06-03-2025T01:08:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-03-2025T01:08:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-03-2025T01:08:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.automationexercise.com'
+
+06-03-2025T01:08:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Open website' successfully
+
+06-03-2025T01:08:33 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_Automation Exercise/a_Contact us")): Object 'Object Repository/Page_Automation Exercise/a_Contact us' is visible
+
+06-03-2025T01:08:34 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Automation Exercise/a_Contact us' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-03-2025T01:07:45 - [TEST_SUITE][PASSED] - Home page checks: Test Cases/Verify Contact Us]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
